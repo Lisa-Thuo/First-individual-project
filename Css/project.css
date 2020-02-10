@@ -1,0 +1,50 @@
+.dits {
+    float: left;
+    padding: 5px;
+    margin: 3px;
+
+}
+    
+#projects {
+    float: left;
+    width: 220px;
+    padding: 5px;
+    
+}
+.me {
+    float: left;
+    width: 220px;
+    padding: 5px;
+}
+.hobbies {
+    float: left;
+    width: 220px;
+    padding: 5px;
+}
+@media screen and (min-width: 500px) and (max-width: 767px) {
+    body {
+       background-image: images/"space.jpg";
+        color: black;
+    }
+}
+@media screen and (min-width: 500px) {
+  body {
+
+}
+  }
+  .column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
+
+.mwa {
+    float: left;
+    padding: 5px;
+    border: 2px blue;
+    margin: 20px;
+    background-color: blue;
+
+}
+
+
