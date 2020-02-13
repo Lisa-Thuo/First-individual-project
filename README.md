@@ -1,7 +1,7 @@
-# Week One Project#
-## This is my first IP##
-## You can access it on github.com. My username is Lisa-Thuo and the repository is First-individual-project.##
-## I used HTML and CSS to design and edit the project.##
+# Week One Project
+## This is my first IP
+## You can access it on github.com. My username is Lisa-Thuo and the repository is First-individual-project.
+## I used HTML and CSS to design and edit the project.
 # Licensing Details
  MIT License
 Copyright (c) 2020 Lisa Thuo
