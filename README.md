@@ -4,14 +4,14 @@
 ## Description
 {This is my first attempt at web design.}
 ## Setup/Installation Requirements
-* all you need is a web-browser
+* You need a web-browser installed in your computer
 
 ## Known Bugs
-{none.}
+{None.}
 ## Technologies Used
 {HTML and CSS.}
 ## Support and contact details
-{conract me jebetthuo@gmail.com.}
+{You can contact me jebetthuo@gmail.com.}
 ### License
 *{MIT License
 
