@@ -2,6 +2,7 @@
     float: left;
     padding: 5px;
     margin: 3px;
+    background-color: black;
 
 }
     
@@ -9,17 +10,20 @@
     float: left;
     width: 220px;
     padding: 5px;
+    background-color: black;
     
 }
 .me {
     float: left;
     width: 220px;
     padding: 5px;
+    background-color: black;
 }
 .hobbies {
     float: left;
     width: 220px;
     padding: 5px;
+    background-color: black;
 }
 @media screen and (min-width: 500px) and (max-width: 767px) {
 
